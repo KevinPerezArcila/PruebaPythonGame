@@ -9,3 +9,5 @@ Para disparar oprimir la tecla espacio
 Movimiento de la nave AWSD o las flechas de movimiento
 
 Los sprite fueron creados en pixilart, fondo y menú diseñados en canva todo por mi autoria.
+
+PARA EJECUTAR EL JUEGO DEBEN HACER EL CLONE DEL REPOSITORIO E INSTALAR LAS LIBRERIAS CORRESPONDIENTES (PYGAME)
